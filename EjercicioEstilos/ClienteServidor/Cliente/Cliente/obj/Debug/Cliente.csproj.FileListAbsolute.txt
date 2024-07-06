@@ -1,0 +1,7 @@
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ClienteServidor\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ClienteServidor\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ClienteServidor\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ClienteServidor\Cliente\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ClienteServidor\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ClienteServidor\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ClienteServidor\Cliente\Cliente\obj\Debug\Cliente.pdb

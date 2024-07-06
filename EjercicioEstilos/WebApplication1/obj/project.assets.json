@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AS_CAPAS/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AS_CAPAS.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AS_CAPAS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AS_CAPAS/1.0.0": {
+      "type": "project",
+      "path": "../AS_CAPAS/AS_CAPAS.csproj",
+      "msbuildProject": "../AS_CAPAS/AS_CAPAS.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AS_CAPAS >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dapr1\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\USB CALI\\CursoArquitectura\\AS_Alex\\EjercicioEstilos\\WebApplication1\\WebApplication1.csproj",
+      "projectName": "WebApplication1",
+      "projectPath": "C:\\USB CALI\\CursoArquitectura\\AS_Alex\\EjercicioEstilos\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\dapr1\\.nuget\\packages\\",
+      "outputPath": "C:\\USB CALI\\CursoArquitectura\\AS_Alex\\EjercicioEstilos\\WebApplication1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\dapr1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\USB CALI\\CursoArquitectura\\AS_Alex\\EjercicioEstilos\\AS_CAPAS\\AS_CAPAS.csproj": {
+              "projectPath": "C:\\USB CALI\\CursoArquitectura\\AS_Alex\\EjercicioEstilos\\AS_CAPAS\\AS_CAPAS.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

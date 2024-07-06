@@ -1,0 +1,12 @@
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\AS_CAPAS\bin\Debug\net8.0\AS_CAPAS.deps.json
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\AS_CAPAS\bin\Debug\net8.0\AS_CAPAS.dll
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\AS_CAPAS\bin\Debug\net8.0\AS_CAPAS.pdb
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\AS_CAPAS\obj\Debug\net8.0\AS_CAPAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\AS_CAPAS\obj\Debug\net8.0\AS_CAPAS.AssemblyInfoInputs.cache
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\AS_CAPAS\obj\Debug\net8.0\AS_CAPAS.AssemblyInfo.cs
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\AS_CAPAS\obj\Debug\net8.0\AS_CAPAS.csproj.CoreCompileInputs.cache
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\AS_CAPAS\obj\Debug\net8.0\AS_CAPAS.sourcelink.json
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\AS_CAPAS\obj\Debug\net8.0\AS_CAPAS.dll
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\AS_CAPAS\obj\Debug\net8.0\refint\AS_CAPAS.dll
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\AS_CAPAS\obj\Debug\net8.0\AS_CAPAS.pdb
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\AS_CAPAS\obj\Debug\net8.0\ref\AS_CAPAS.dll

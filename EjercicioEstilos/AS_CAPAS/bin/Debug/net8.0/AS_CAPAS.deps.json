@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AS_CAPAS/1.0.0": {
+        "runtime": {
+          "AS_CAPAS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AS_CAPAS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
