@@ -1,0 +1,11 @@
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ArquitecturaMicroServicios\Microservicios\obj\Debug\net8.0\PubTmp\Out\Microservicios1.exe
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ArquitecturaMicroServicios\Microservicios\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ArquitecturaMicroServicios\Microservicios\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ArquitecturaMicroServicios\Microservicios\obj\Debug\net8.0\PubTmp\Out\Microservicios1.dll
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ArquitecturaMicroServicios\Microservicios\obj\Debug\net8.0\PubTmp\Out\Microservicios1.deps.json
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ArquitecturaMicroServicios\Microservicios\obj\Debug\net8.0\PubTmp\Out\Microservicios1.runtimeconfig.json
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ArquitecturaMicroServicios\Microservicios\obj\Debug\net8.0\PubTmp\Out\Microservicios1.pdb
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ArquitecturaMicroServicios\Microservicios\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ArquitecturaMicroServicios\Microservicios\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ArquitecturaMicroServicios\Microservicios\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\USB CALI\CursoArquitectura\AS_Alex\EjercicioEstilos\ArquitecturaMicroServicios\Microservicios\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
